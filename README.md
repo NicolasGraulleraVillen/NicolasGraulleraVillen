@@ -1,6 +1,6 @@
 # Nicolás Graullera Villén
 
-4th-year dual degree in **Computational Mathematics** and **Software Engineering** at U-tad (Las Rozas, Madrid).
+5th-year dual degree in **Computational Mathematics** and **Software Engineering** at U-tad (Las Rozas, Madrid).
 
 I care about the math behind models (inference, optimization, linear algebra) and about code that other people can review.
 
